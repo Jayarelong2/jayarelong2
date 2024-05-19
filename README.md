@@ -4,7 +4,7 @@
 
 
   - [Active Directory Home Lab](https://github.com/jrlong2/ActiveDirectoryLab)
-  - - [Active Directory Home Lab Source Video](https://www.youtube.com/watch?v=a83ASGn_V_s)
+    - [Active Directory Home Lab Source Video](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 <h2>📺 Certifications</h2>
 
