@@ -5,7 +5,7 @@
 👯 Currently studying AWS Certified Cloud Practitioner, Linux, and CompTIA Net+<br>
 🤔 Working on sysadmin and cloud support home labs to gain hands-on experience<br>
 
-### 💻Tech Stack
+### 💻Platforms and Tools
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
