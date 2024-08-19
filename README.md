@@ -35,6 +35,12 @@
 
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![CLF C02 - QUIZ Module 19 : AWS technical resources and support options](https://ytcards.demolab.com/?id=M5J4q5PREGw&title=CLF+C02+-+QUIZ+Module+19+%3A+AWS+technical+resources+and+support+options&lang=en&timestamp=1705554871&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CLF C02 - QUIZ Module 19 : AWS technical resources and support options")](https://www.youtube.com/watch?v=M5J4q5PREGw)
+[![CLF C02 - Module 19 : AWS technical resources and support options](https://ytcards.demolab.com/?id=i0ghRslCiWA&title=CLF+C02+-+Module+19+%3A+AWS+technical+resources+and+support+options&lang=en&timestamp=1705553753&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CLF C02 - Module 19 : AWS technical resources and support options")](https://www.youtube.com/watch?v=i0ghRslCiWA)
+[![CLF C02 - QUIZ Module 18 : Resources for Billing Support](https://ytcards.demolab.com/?id=qzPb9dIQcC4&title=CLF+C02+-+QUIZ+Module+18+%3A+Resources+for+Billing+Support&lang=en&timestamp=1705545100&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CLF C02 - QUIZ Module 18 : Resources for Billing Support")](https://www.youtube.com/watch?v=qzPb9dIQcC4)
+[![CLF C02 - Module 18 : Resources for Billing Support](https://ytcards.demolab.com/?id=ZWMZBdT8Low&title=CLF+C02+-+Module+18+%3A+Resources+for+Billing+Support&lang=en&timestamp=1705490665&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CLF C02 - Module 18 : Resources for Billing Support")](https://www.youtube.com/watch?v=ZWMZBdT8Low)
+[![CLF C02 - QUIZ Module 17 : AWS Pricing Models QUIZ](https://ytcards.demolab.com/?id=vrgf6H6rBvM&title=CLF+C02+-+QUIZ+Module+17+%3A+AWS+Pricing+Models+QUIZ&lang=en&timestamp=1705484600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CLF C02 - QUIZ Module 17 : AWS Pricing Models QUIZ")](https://www.youtube.com/watch?v=vrgf6H6rBvM)
+[![CLF C02 - Module 17 : AWS Pricing Models](https://ytcards.demolab.com/?id=IwUtDyhBZ20&title=CLF+C02+-+Module+17+%3A+AWS+Pricing+Models&lang=en&timestamp=1705483254&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CLF C02 - Module 17 : AWS Pricing Models")](https://www.youtube.com/watch?v=IwUtDyhBZ20)
 <!-- END YOUTUBE-CARDS -->
 
 
