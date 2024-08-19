@@ -31,8 +31,11 @@
 
 
 ### 📉GitHub Stats
-![jrlong2's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrlong2&count_private=true&show_icons=true&theme=midnight-purple&hide_rank=false)
+![jrlong2's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrlong2&count_private=true&show_icons=true&theme=midnight-purple&hide_rank=false)<br>
 
+
+
+### 📺Helpful Youtube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![CLF C02 - QUIZ Module 19 : AWS technical resources and support options](https://ytcards.demolab.com/?id=M5J4q5PREGw&title=CLF+C02+-+QUIZ+Module+19+%3A+AWS+technical+resources+and+support+options&lang=en&timestamp=1705554871&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CLF C02 - QUIZ Module 19 : AWS technical resources and support options")](https://www.youtube.com/watch?v=M5J4q5PREGw)
