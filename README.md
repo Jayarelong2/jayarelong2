@@ -34,7 +34,8 @@
 ![jrlong2's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrlong2&count_private=true&show_icons=true&theme=midnight-purple&hide_rank=false)
 
 
-
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
 
 
 
