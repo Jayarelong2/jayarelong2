@@ -3,8 +3,9 @@
 🔭 Support Engineer sharing my journey in tech<br>
 🌱 Previously studied cybersecurity at [ISC2](https://www.credly.com/badges/e07a7a79-7ca7-4d21-ad2c-7ffab830f546/public_url), CompTIA (A+/Sec+) and exposure management at [XM Cyber](https://www.credly.com/badges/a88d5a1b-45b3-46b6-ba61-88fa45bb91ea/public_url)<br>
 👯 Currently studying AWS Certified Cloud Practitioner, Linux, and CompTIA Net+<br>
-🤔 Working on sysadmin and cloud support home labs to gain hands-on experience<br>
+🤔 Working on sysadmin and cloud support home labs to gain hands-on experience
 
+---
 ### 💻Platforms and Tools
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
@@ -28,13 +29,11 @@
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-
-
+<br>
 ### 📉GitHub Stats
 ![jrlong2's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrlong2&count_private=true&show_icons=true&theme=midnight-purple&hide_rank=false)<br>
-
-
-
+<br>
+---
 ### 📺Helpful Youtube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
