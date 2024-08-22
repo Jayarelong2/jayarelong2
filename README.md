@@ -29,7 +29,16 @@
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-<br>
+
+👨‍💻Certifications and Badges
+- [AWS Cloud Quest: Cloud Practitioner](https://www.credly.com/badges/3f496767-6e68-4078-94bf-b15cdbc4f08a/public_url)
+- [AWS Knowledge: Cloud Essentials](https://www.credly.com/badges/65f9f24f-2d5d-4042-a083-76407b4fd92f/public_url)
+- [AWS Well-Architected Proficient](https://www.credly.com/badges/40abe169-50d7-4820-8235-960d489383b2/public_url)
+- [ISC2 Certified in Cybersecurity (CC)](https://www.credly.com/badges/e07a7a79-7ca7-4d21-ad2c-7ffab830f546/public_url)
+- [XM Cyber Exposure Management Expert](https://www.credly.com/badges/a88d5a1b-45b3-46b6-ba61-88fa45bb91ea/public_url)
+- [Antisyphon SOC Core Skills | John Strand](https://issuer.gutenbergcerts.com/verify.html?url=https://issuer.gutenbergcerts.com/cert_issuer/api/v1.0/certificate/20240208-ANTI-zelq_b58a42b5-d1ea-41cc-8a27-296ad43ca4b6.pdf)
+- [ACM Level 1 - Cyber Threat Hunting Training](https://issuer.gutenbergcerts.com/verify.html?url=https://issuer.gutenbergcerts.com/cert_issuer/api/v1.0/certificate/20230119-ACTI-kb00_6d4f4bdd-ddea-4793-842b-c4aea1b0119b.pdf)
+
 ### 📉GitHub Stats
 ![jrlong2's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrlong2&count_private=true&show_icons=true&theme=midnight-purple&hide_rank=false)<br>
 <br>
