@@ -1,7 +1,7 @@
 ### Hi, I'm Johnnie!👋
 
 🔭 Support Engineer sharing my journey in tech<br>
-🌱 Previously studied cybersecurity at [ISC2](https://www.credly.com/badges/e07a7a79-7ca7-4d21-ad2c-7ffab830f546/public_url), CompTIA (A+/Sec+) and exposure management at [XM Cyber](https://www.credly.com/badges/a88d5a1b-45b3-46b6-ba61-88fa45bb91ea/public_url)<br>
+🌱 Studied cybersecurity at ISC2, CompTIA (A+/Sec+) and exposure management at XM Cyber<br>
 👯 Currently studying AWS Certified Cloud Practitioner, Linux, and CompTIA Net+<br>
 🤔 Working on sysadmin and cloud support home labs to gain hands-on experience
 
@@ -30,7 +30,7 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
-👨‍💻Certifications and Badges
+### 👨‍💻Certifications and Badges
 - [AWS Cloud Quest: Cloud Practitioner](https://www.credly.com/badges/3f496767-6e68-4078-94bf-b15cdbc4f08a/public_url)
 - [AWS Knowledge: Cloud Essentials](https://www.credly.com/badges/65f9f24f-2d5d-4042-a083-76407b4fd92f/public_url)
 - [AWS Well-Architected Proficient](https://www.credly.com/badges/40abe169-50d7-4820-8235-960d489383b2/public_url)
