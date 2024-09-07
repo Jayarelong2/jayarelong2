@@ -31,6 +31,7 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 ### 👨‍💻Certifications and Badges
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/63990c6f-22a5-4fb9-a035-aab133edbe47/public_url)
 - [AWS Cloud Quest: Cloud Practitioner](https://www.credly.com/badges/3f496767-6e68-4078-94bf-b15cdbc4f08a/public_url)
 - [AWS Knowledge: Cloud Essentials](https://www.credly.com/badges/65f9f24f-2d5d-4042-a083-76407b4fd92f/public_url)
 - [AWS Well-Architected Proficient](https://www.credly.com/badges/40abe169-50d7-4820-8235-960d489383b2/public_url)
