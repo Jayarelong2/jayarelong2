@@ -2,7 +2,7 @@
 
 🔭 Support Engineer sharing my journey in tech<br>
 🌱 Studied cybersecurity at ISC2, CompTIA (A+/Sec+) and exposure management at XM Cyber<br>
-👯 Currently studying AWS Certified Cloud Practitioner, Linux, and CompTIA Net+<br>
+👯 Currently studying AWS Certified Solutions Architect Associate, Linux, and the LEMP stack<br>
 🤔 Working on sysadmin and cloud support home labs to gain hands-on experience
 
 ---
